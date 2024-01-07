@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Irene
-- 👀 I’m interested in you!!
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate (not yet)
-- 📫 How to reach me @mochiyush on Twitter
+- 📫 How to reach me @sibudakalia on Twitter
 
 <!---
 KiwiiMelonn/KiwiiMelonn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
